@@ -6,3 +6,5 @@ if word == rev_word:
 	print(f"{word} is Palindrome")
 else: 
 	print(f"{word} is Not a Palindrome")
+
+# Palindrome Code
